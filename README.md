@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @MinhKS123
 - 👀 I’m interested in Code?
-- 🌱 I’m currently learning Java, C++, C#
- 
-
-- NOTE: I use default hehe
+- 🌱 I’m currently learning Java, C++, C#, Python
+- I've taken part in some programming competion with Python as the main language, currently I'm learning C++ for future competitions.
 
 
 <!---
